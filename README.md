@@ -2,9 +2,9 @@
 
 This application provides a personalized mental wellness experience using AI from a large language model (LLM). It's designed to offer emotional support and coping strategies through empathetic conversations. You can share your thoughts and feelings confidentially and without worry, anytime you want, and get feedback in a seemingly conscientious and thoughtful manner. It gives you ideas to feel calmer and happier, and it's available 24/7.
 
-## Demo
 
-[https://ai-thera.vercel.app/](https://ai-thera.vercel.app/)
+
+
 
 ## Overview
 
@@ -21,13 +21,6 @@ This application provides a personalized mental wellness experience using AI fro
   ](https://replicate.com/lucataco/llama-2-13b-chat)
 - **LLM Orchestration**: [Langchain](https://js.langchain.com/docs/get_started/introduction/)
 
-## Running Locally
 
-Clone GitHub repository, install the dependencies, and run the development server:
-
-
-
-
-Create a .env file similar to .env.example with the required environment variables.
 
 The app runs on [http://localhost:3000](http://localhost:3000).

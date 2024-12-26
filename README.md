@@ -25,12 +25,8 @@ This application provides a personalized mental wellness experience using AI fro
 
 Clone GitHub repository, install the dependencies, and run the development server:
 
-```bash
-$ git clone https://github.com/neilgebhard/ai-therapist
-$ cd ai-therapist
-$ npm i
-$ npm run dev
-```
+
+
 
 Create a .env file similar to .env.example with the required environment variables.
 
